@@ -1,10 +1,4 @@
-.hola{
-    color:white;
-    padding:1rem;
-    text-align: center;
-    background: darkred;
-    border: 5px solid #dabc14;
- }
+
 /* Botón Flotante de WhatsApp */
 .btn-whatsapp-flotante {
   position: fixed;
